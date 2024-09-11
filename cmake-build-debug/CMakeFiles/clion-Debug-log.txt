@@ -1,0 +1,8 @@
+/home/chen/clion-2024.1.3/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/chen/clion-2024.1.3/bin/ninja/linux/x64/ninja -G Ninja -S /home/chen/server_client_encrption -B /home/chen/server_client_encrption/cmake-build-debug
+-- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+-- OpenSSL found: 3.0.2
+-- OpenSSL include dir: /usr/include
+-- OpenSSL libraries: /usr/lib/x86_64-linux-gnu/libssl.so;/usr/lib/x86_64-linux-gnu/libcrypto.so
+-- Configuring done (0.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/chen/server_client_encrption/cmake-build-debug

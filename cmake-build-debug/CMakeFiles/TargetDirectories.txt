@@ -1,0 +1,5 @@
+/home/chen/server_client_encrption/cmake-build-debug/CMakeFiles/SocketUtil.dir
+/home/chen/server_client_encrption/cmake-build-debug/CMakeFiles/server.dir
+/home/chen/server_client_encrption/cmake-build-debug/CMakeFiles/client.dir
+/home/chen/server_client_encrption/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/chen/server_client_encrption/cmake-build-debug/CMakeFiles/rebuild_cache.dir
